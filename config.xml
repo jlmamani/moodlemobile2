@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.3.1">
-    <name>Moodle Mobile</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.capituloddhh" version="3.3.1">
+    <name>Capitulo DDHH</name>
     <description>
-        Moodle Mobile official app
+        Capitulo Boliviano de Derechos Humanos
     </description>
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://edu.derechoshumanosbolivia.com" email="maj1989@hotmail.es">
+        Capitulo DDHH
     </author>
     <content src="index.html"/>
     <access origin="*"/>
